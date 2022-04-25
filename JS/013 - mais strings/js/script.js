@@ -1,0 +1,1 @@
+let stringFeia = "Queria \"star\" morta"; //Não usar isso, é uma incrível gambiarra, só queria deixar registrado a existência
